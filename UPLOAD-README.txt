@@ -1,0 +1,1 @@
+Upload index.html and styles.css to the ROOT of your GitHub repository. README is optional. GitHub Pages source: Deploy from branch, main, /(root). Images are loaded from their original Squarespace CDN URLs for this migration test.
